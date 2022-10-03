@@ -1,0 +1,14 @@
+{
+  "name": "@qui/pcc-frontend",
+  "private": true,
+  "version": "1.9.18",
+  "author": "Ryan Bower",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "superstruct": "^0.16.5"
+  },
+  "devDependencies": {
+    "typescript": "4.7.4"
+  },
+  "packageManager": "yarn@3.2.3"
+}
